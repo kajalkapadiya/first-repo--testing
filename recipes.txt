@@ -5,3 +5,6 @@ welcome to kajal kitchen
 kheer
 pasta
 chicken
+
+pizza
+fish
