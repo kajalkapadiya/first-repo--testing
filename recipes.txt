@@ -6,4 +6,8 @@ kheer
 pasta
 chicken
 
+pizza
+fish
+
 thank you
+
